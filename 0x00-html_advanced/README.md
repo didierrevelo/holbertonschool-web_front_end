@@ -38,3 +38,7 @@
 ## Sitemap of the project
 
 <img src="img/1.png" alt="Sitemap of the project">
+
+## Wireframe of Techium project
+
+<img src="img/2.png" alt="Wireframe of Techium project">
