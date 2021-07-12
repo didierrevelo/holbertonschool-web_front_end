@@ -72,7 +72,7 @@ Copy the content of 1-index.html into 2-index.html
 ##### **Meta charset:**
 
 *add a meta tag inside the head:
-********************************add the charset attribute with the value utf-8
+***add the charset attribute with the value utf-8
 
 #### **Viewport:**
 
