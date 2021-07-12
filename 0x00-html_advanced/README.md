@@ -45,7 +45,7 @@
 
 # Tasks
 
-## 0. Create your first webpage
+## [0. Create your first webpage](0-index.html)
 
 
 **Create your first HTML file 0-index.html with:**
