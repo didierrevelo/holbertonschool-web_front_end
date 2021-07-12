@@ -1,4 +1,4 @@
-<h1 aling="center"> 0x00-html_advanced <h1>
+<h1 align="center"> 0x00-html_advanced <h1>
 
 ## Welcome!!!
 
