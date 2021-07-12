@@ -69,12 +69,12 @@ Copy the content of 1-index.html into 2-index.html
 
 <img src="img/3.jpg" alt="The head meta charset, viewport, title, description, favicons">
 
-##### **Meta charset:**
+### **Meta charset:**
 
 * add a meta tag inside the head:  
 ** add the charset attribute with the value utf-8
 
-##### **Viewport:**
+### **Viewport:**
 
 * add a meta tag inside the head:  
 ** add an attribute name on the tag and specify that it is the meta viewport  
@@ -82,18 +82,18 @@ Copy the content of 1-index.html into 2-index.html
 ** add the key initial-scale with the value 1.0  
 ** add the key viewport-fit with the value cover  
 
-##### **Title:**
+### **Title:**
 
 * add the title tag just after the meta viewport with value: Homepage - Techium  
 
-#####  **Description:**
+###  **Description:**
 
 * add a meta tag inside the head section  
 ** add an attribute name on the tag and specify that is the meta description
 ** add another attribute called content
 ** add the following description: Techium is a digital agency
 
-##### **Favicons:**
+### **Favicons:**
 
 * download the image above to use as a favicon  
 * Use the tool at https://realfavicongenerator.net/ to generate all the favicon formats  
