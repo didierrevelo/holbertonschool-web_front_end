@@ -62,4 +62,4 @@ Copy the content of 0-index.html into 1-index.html
 **Create the head and body sections**
 
 **- inside the html tag, create the head and body tags (empty) in this order.**
-### **W3C won’t pass - you can ignore it.**
+###### **W3C won’t pass - you can ignore it.**
