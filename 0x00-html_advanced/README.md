@@ -53,7 +53,7 @@
 - After the doctype, open and close a html tag.
 - Add the language tag, specify English for ISO language code and add the direction tag (ltr or rtl) on the html tag.
 - Open your file in your browser (the page should be blank).
-**W3C won’t pass - you can ignore it.**
+###### **W3C won’t pass - you can ignore it.**
 
 ## [1. Structure your webpage](1-index.html)
 
@@ -63,3 +63,5 @@ Copy the content of 0-index.html into 1-index.html
 
 **- inside the html tag, create the head and body tags (empty) in this order.**
 ###### **W3C won’t pass - you can ignore it.**
+
+
