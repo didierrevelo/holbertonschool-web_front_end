@@ -37,4 +37,4 @@
 
 ## Sitemap of the project
 
-<img src="/img/1.png" alt="Sitemap of the project">
+<img src="img/1.png" alt="Sitemap of the project">
