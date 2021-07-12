@@ -1,20 +1,20 @@
 <h1 align="center"> 0x00-html_advanced <h1>
 
-## Welcome!!!
+# Welcome!!!
 
 <p> In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.</p>
 
-## Resources
-# Read or watch:
+# Resources
+## Read or watch:
 * [HTML 5.2](https://intranet.hbtn.io/rltoken/0qrWxRjFnohd-DMZwIakuA)
-* [HTML: HyperText Markup Language | MDN](HTML: HyperText Markup Language | MDN)
+* [HTML: HyperText Markup Language | MDN](https://intranet.hbtn.io/rltoken/M-CcOLx8YG8znnc4qxSscg)
 * [HTML Reference - A free guide to all HTML elements and attributes](https://intranet.hbtn.io/rltoken/5O-P-PsGJ5tXOOmKZwTNvg)
 * [Can I use… Support tables for HTML5, CSS3, etc](https://intranet.hbtn.io/rltoken/qonyw8QCI9Bf8jjiib9tug)
 * [HTML Cheat Sheet - WebsiteSetup](https://intranet.hbtn.io/rltoken/IL-IEL5JBB6FuDME5oZNRQ)
 
-## Learning Objectives
+# Learning Objectives
 
-# At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 - Which guidelines to follow for HTML
 - How to create the skeleton of an HTML5 page
