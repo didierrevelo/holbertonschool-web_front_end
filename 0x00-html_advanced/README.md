@@ -99,11 +99,11 @@ Copy the content of 1-index.html into 2-index.html
 * Use the tool at https://realfavicongenerator.net/ to generate all the favicon formats  
 * take the favicon.ico and favicon.png and place these at the root of your project directory, so that it is siblings with your [0-9]+-index.html files.  
 * inside the head, create 2 link tags with these 3 attributes: rel, type, and href.  
-- the first link tag:  
- - rel: icon  
- - type: image/x-icon  
- - href: ./favicon.ico  
-- the second link tag:  
- - rel: icon  
- - type: image/png  
- - href: ./favicon.png  
+  - the first link tag:  
+    - rel: icon  
+    - type: image/x-icon  
+    - href: ./favicon.ico  
+  - the second link tag:  
+    - rel: icon  
+    - type: image/png  
+    - href: ./favicon.png  
