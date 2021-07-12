@@ -127,14 +127,14 @@ Copy the content of 2-index.html into 3-index.html
 * create the footer tag after the main tag
 * put the text Footer inside the footer tags
 
-### **4. Aside**
+## [4. Aside](article.html)
 
 Copy the contents of 3-index.html into article.html
  - change the <title> to put: Article - Techium
  - inside the main tags
    - after the text, create the aside tags with text Aside
 
-### **5. Section**
+## [5. Section](5-index.html)
 
 Copy the content of 3-index.html into 5-index.html
 
