@@ -30,3 +30,11 @@
 - How to embed external content
 - How to correctly structure an HTML page
 
+## Requirements
+* A README.md file at the root of the folder of the project is mandatory
+* Your code should be W3C compliant and validate with W3C-Validator
+* Techium will be the name of the company we will use across our webpages.
+
+## Sitemap of the project
+
+<img src="/img/1.png" alt="Sitemap of the project">
