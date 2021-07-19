@@ -273,87 +273,52 @@ Which \<a> links don’t have enough text description?
 
 Take a screenshot of it
 
-29. Sources
-mandatory
+### [29. Sources](29-how_many_colors.png)
+mandatory  
 Go to https://dev-tools.hbtn.info/
 
 The sources panel allow you to edit files, add breakpoints to analyse your JavaScript code and create snippets.
 
-Create a new snippet called allcolors.js
-Copy-paste the code on that page
-Run the code
+Create a new snippet called allcolors.js  
+Copy-paste the code on that page  
+Run the code  
 Take a screenshot of the result in your console
-Repo:
 
-GitHub repository: holbertonschool-web_front_end
-Directory: 0x01-developer_tools
-File: 29-how_many_colors.png
- 
-30. Block CSS files
-mandatory
+### [30. Block CSS files](30-no_css.png)
+mandatory  
 Go to https://dev-tools.hbtn.info/
 
 Block all CSS requests
 
 Take a screenshot of it
 
-Repo:
-
-GitHub repository: holbertonschool-web_front_end
-Directory: 0x01-developer_tools
-File: 30-no_css.png
- 
-31. Application panel
-mandatory
+### [31. Application panel](31-session_storage_key)
+mandatory  
 Go to https://dev-tools.hbtn.info/
 
 The application panel gives you access to the storage (cookies, sessions, cache…) and some other options as Services Workers and more recently, notifications.
 
 What is the only key present in the session storage for this page?
 
-Repo:
-
-GitHub repository: holbertonschool-web_front_end
-Directory: 0x01-developer_tools
-File: 31-session_storage_key
- 
-32. Service workers
-mandatory
+### [32. Service workers](32-service_workers)
+mandatory  
 Go to https://dev-tools.hbtn.info/
 
 Does this page have any service workers? Yes or No
 
-Repo:
-
-GitHub repository: holbertonschool-web_front_end
-Directory: 0x01-developer_tools
-File: 32-service_workers
- 
-33. Security
-mandatory
+### [33. Security](33-ssl_cert)
+mandatory  
 Go to https://dev-tools.hbtn.info/
 
 The security panel allows you to make sure HTTS is properly implement on a webpage.
 
 Which organization issued the SSL certificate for this page?
 
-Repo:
-
-GitHub repository: holbertonschool-web_front_end
-Directory: 0x01-developer_tools
-File: 33-ssl_cert
- 
-34. Expiration date
+### [34. Expiration date](34-ssl_expiration.png)
 mandatory
 Go to https://dev-tools.hbtn.info/
 
 When does the SSL certificate expire?
 
 Take a screenshot of it
-
-Repo:
-
-GitHub repository: holbertonschool-web_front_end
-Directory: 0x01-developer_tools
-File: 34-ssl_expiration.png
  
