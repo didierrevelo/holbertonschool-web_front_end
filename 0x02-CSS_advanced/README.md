@@ -655,6 +655,8 @@ Based on styles/17-style.css:
     * nav-item-display to inline-block
     * nav-item-marginto 3 times the root element on the bottom and 0 elsewhere
     * nav-item-link-hover set to color-primary
+
+
 **Does not need to pass w3c**
  
 ## [19. Grid styling and custom variables](styles/19-style.css)
@@ -680,6 +682,8 @@ Based on styles/18-style.css:
     * Set the size of the fonts to font-size-small
     * set the foreground color to text-color
 * For all ul tag in the footer class, align the text to the right
+
+
 **Does not need to pass w3c**
 
 ## [20.  Clear the context of the grid](styles/20-style.css)
@@ -691,6 +695,8 @@ Write a CSS rule that creates a new row after each instance of the class row wit
 * no content
 * displayed as a table
 * do not allow any floating elements on either side
+
+
 **Does not have to pass w3c**
 
 ## [21. Simplify the col- selector](styles/21-style.css)
@@ -702,6 +708,8 @@ Based on styles/20-style.css:
     * set their padding to half of the root element
     * Hint: be mindful of specificity
 * Remove references to these common properties for the individual col-1-3 and col-1-2 classes
+
+
 **Does not need w3c**
 
 ## [22.  Add a dark theme to sections](styles/22-style.css)
@@ -713,6 +721,8 @@ Style the data-section-theme=“dark” with these rules:
 * Redefine the custom property text-color to the color-white
 * Redefine the custom property section-title-color to color-white
 * Set the background to the variable color-black
+
+
 **Does not need to pass w3c**
 
 ## [23.  Fix issues for dark theme](styles/23-style.css)
@@ -725,6 +735,8 @@ Based on styles/22-style.css:
     * Style it so that it renders as a block element
 * Style the social-link class that also selects the svg children
     * Fill in the color of the svg children with the text-color variable
+
+
 **Does not have to pass w3c**
 
 ## [24.  Add background and hover state to services](styles/24-style.css)
@@ -744,6 +756,8 @@ Based on styles/23-style.css
     * Set the foreground color to the variable color-white
     * Set the color of the background to the variable color-primary
     * Text should not be decorated at all
+
+
 **Does not need to pass w3c**
 
 ## [25.  Add border to the button](styles/25-style.css)
@@ -779,6 +793,8 @@ Based on styles/24-style.css
 * In [data-section-theme="dark"], add the variable
 
     * Create a custom property button-color pointing to the variable color-white
+
+
 **Does not have to pass w3c**
 
 ## [26.  Add border radius to images](styles/26-style.css)
@@ -798,6 +814,8 @@ Based on styles/25-style.css
     * Style as a block level element
     * Pad the top with 1x the root element
     * Set the foreground color value to the value of the color-primary variable
+
+
 **Does not have to pass w3c**
 
 ## [27.  Styling the section hero]()
@@ -814,6 +832,8 @@ Based on styles/26-style.css
 * Target the section-inner inside the section-hero
 
     * Add 10rem, 40rem, 2rem, and 0 to the padding on the top, right, bottom, left all in 1 rule
+
+
 **Does not have to pass w3c**
 
 ## [28.  Fixing the header and menu navigation bar](styles/28-style.css)
@@ -840,6 +860,8 @@ Based on styles/27-style.css
     * Position the links with the value of the variable header-logo-link-position
     * Set the vertical position of the element using header-logo-link-top
     * Set the horizontal position of the element using header-logo-link-left
+
+
 **Does not have to pass w3c**
 
 ## [29. Styling and custom properties for the nav](styles/29-style.css)
@@ -861,6 +883,8 @@ Based on styles/28-style.css
 
     * Set the background color of the elements to the variable color-primary
     * Set the width of the elements to 100%
+
+
 **Does not have to pass w3c**
 
 ## [30.  Fix the works section](styles/30-style.css)
@@ -907,6 +931,8 @@ Based on styles/29-style.css
 * Target card-title when card-work is hover
 
     * The opacity of these elements should be set to the value of 1
+
+
 **Does not have to pass w3c**
 
 ## [31.  Add quotes decoration on testimonials](styles/31-style.css)
@@ -923,6 +949,8 @@ mandatory
     * The foreground color of the selected elements should be set to #efeded
     * The size of fonts should be 10rem
     * The z-order should be set to -1
+
+
 **Does not have to pass w3c**
 
 ## [32.  Incorporating transitions](styles/32-style.css)
