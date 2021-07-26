@@ -16,7 +16,6 @@ html {
 body,
 a {
     color: text-color;
-    font-family: font-family-base;
 }
 
 .visually-hidden {
@@ -35,4 +34,8 @@ h4,
 h5,
 h6 {
     font-family: font-family-title;
+}
+
+body {
+    font-family: font-family-base;
 }
