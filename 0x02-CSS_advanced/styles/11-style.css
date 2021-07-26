@@ -40,14 +40,6 @@ a {
     text-align: var(--section-header-align);
 }
 
-.card-category,
-.section-tagline {
-    color: var(--color-primary);
-    font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
-    font-size: var(--font-weight-bold);
-}
-
 h1,
 h2,
 h3,
@@ -63,4 +55,12 @@ body {
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
+}
+
+.card-category,
+.section-tagline {
+    color: var(--color-primary);
+    font-family: var(--font-family-title);
+    text-transform: var(--section-tagline-transform);
+    font-size: var(--font-weight-bold);
 }
