@@ -33,9 +33,9 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: font-family-title;
+    font-family: var(--font-family-title);
 }
 
 body {
-    font-family: font-family-base;
+    font-family: var(--font-family-base);
 }
