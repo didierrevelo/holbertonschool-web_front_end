@@ -34,30 +34,6 @@ a {
     text-decoration: none;
 }
 
-a:link {
-    text-decoration: none;
-}
-
-a:visited {
-    font-style: italic;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-a:active {
-    color: var(--color-light-grey);
-}
-
-.visually-hidden {
-    display: none;
-}
-
-.section-header {
-    text-align: var(--section-header-align);
-}
-
 h1,
 h2,
 h3,
@@ -81,6 +57,30 @@ body {
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: var(--color-light-grey);
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.section-header {
+    text-align: var(--section-header-align);
 }
 
 .card-category,
