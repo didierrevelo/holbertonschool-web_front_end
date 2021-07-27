@@ -302,15 +302,15 @@ a:active {
     text-align: var(--section-footer-align);
 }
 
-.card-category,
+.card-category {
+    color: var(--color-primary);
+}
+
 .section-tagline {
     color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
-}
-
-.section-tagline {
     margin: var(--section-tagline-margin);
 }
 
@@ -352,7 +352,7 @@ a:active {
 ul.row {
     margin: 0;
     padding: 0;
-    list-style: none;
+    list-style-type: none;
 }
 
 .col-1-3 {
