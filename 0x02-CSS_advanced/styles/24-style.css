@@ -337,22 +337,6 @@ ul.row {
     color: var(--color-primary);
 }
 
-.card-service .card-title {
-    margin: 0;
-}
-
-.card-service a {
-    display: block;
-    padding: 2rem;
-    background-color: var(--color-light-grey);
-}
-
-.card-service a:hover {
-    color: var(--color-white);
-    background-color: var(--color-primary);
-    text-decoration: none;
-}
-
 .section {
     padding: var(--section-padding);
 }
@@ -364,6 +348,22 @@ ul.row {
 
 .section-body {
     padding: var(--section-body-padding);
+}
+
+.card-services .card-title {
+    margin: 0;
+}
+
+.card-services a {
+    display: block;
+    padding: 2rem;
+    background-color: var(--color-light-grey);
+}
+
+.card-services a:hover {
+    color: var(--color-white);
+    background-color: var(--color-primary);
+    text-decoration: none;
 }
 
 .section-footer {
