@@ -818,7 +818,7 @@ Based on styles/25-style.css
 
 **Does not have to pass w3c**
 
-## [27.  Styling the section hero]()
+## [27.  Styling the section hero](styles/27-style.css)
 mandatory
 Based on styles/26-style.css
 
