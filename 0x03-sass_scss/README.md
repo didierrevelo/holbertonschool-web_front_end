@@ -82,9 +82,9 @@ p {
 guillaume@ubuntu:~/$ 
 ```
   
-[2. Colors](2-color_variables.scss)
-mandatory
-Write a Sass file that assigns:
+[2. Colors](2-color_variables.scss)  
+mandatory  
+Write a Sass file that assigns:  
 
 * The text color #3D3D3D to the HTML tags body and p
 * The background color #6D6D6D to the HTML tags body and h2
