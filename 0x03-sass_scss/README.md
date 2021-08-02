@@ -186,10 +186,8 @@ body {
 guillaume@ubuntu:~/$
 ```
   
-[8. Margin mixin]()
-mandatory
-Write a Sass file that assigns:
-
+[8. Margin mixin](8-mixin_margins.scss)  
+mandatory  
 Margin left and right at 10px to body tags
 Margin left and right at 15px to div tags
 You must use a mixin
