@@ -167,7 +167,7 @@ button {
 guillaume@ubuntu:~/$
 ```
   
-[7. Nested and nested again](7-nested_deeper.scss)
+[7. Nested and nested again](7-nested_deeper.scss)  
 mandatory  
 Write a Sass file that assigns:  
 
