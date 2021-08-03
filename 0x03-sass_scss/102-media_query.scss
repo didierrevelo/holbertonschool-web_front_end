@@ -1,0 +1,35 @@
+/* 15. Media query #1 */
+
+@mixin tiny {
+    @media screen and (max-width: 320px) {
+        @content;
+    }
+}
+
+@mixin medium {
+    @media screen and (max-width: 640px) {
+        @content;
+    }
+}
+
+@mixin large {
+    @media screen and (max-width: 960px) {
+        @content;
+    }
+}
+
+h1 {
+    font-size: 20px;
+    @include large {
+        font-size: 18px;
+    }
+    @include medium {
+        font-size: 16px;
+    }
+    @include tiny {
+        font-size: 14px;
+    }
+    &.small {
+        color: #1D1D1D;
+    }
+}
