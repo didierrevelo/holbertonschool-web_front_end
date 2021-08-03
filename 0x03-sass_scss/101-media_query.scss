@@ -1,0 +1,14 @@
+/* 14. Media query #0 */
+
+@mixin tiny {
+    @media screen and (max-width: 320px) {
+        @content;
+    }
+}
+
+h1 {
+    font-size: 20px;
+    @include tiny {
+        font-size: 14px;
+    }
+}
