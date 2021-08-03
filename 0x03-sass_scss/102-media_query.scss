@@ -28,8 +28,8 @@ h1 {
     }
     @include tiny {
         font-size: 14px;
-    }
-    &.small {
-        color: #1D1D1D;
+        &.small {
+            color: #1D1D1D;
+        }
     }
 }
