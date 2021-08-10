@@ -1,6 +1,6 @@
 <h1 align="center">0x05. Forms<h1>
 
-<img src="images/1.jpeg">
+<img src="img/1.jpeg">
 
 ## Resources
 ### Read or watch:
